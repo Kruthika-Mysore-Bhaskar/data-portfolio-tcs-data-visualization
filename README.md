@@ -43,7 +43,6 @@ I was tasked with helping the CEO and CMO make expansion decisions using sales, 
 ## Files
 - `PowerBI_Report.pbix` – Power BI report file with all 4 visuals
 - `Insights.pdf` – Slide/Script used for CEO/CMO presentation
-- `Screenshots/` – Static PNG images of each visual
 - `README.md` – Project summary and analysis
 
 ---
@@ -51,6 +50,11 @@ I was tasked with helping the CEO and CMO make expansion decisions using sales, 
 ##  Links
 - [Forage Program Link](https://www.theforage.com/virtual-internships/prototype/tata/consulting)  
 - [My LinkedIn Post About This Project](#coming-soon)
+
+ ##  Visual Report
+
+🖼️ [Click here to view all visuals and insights](./Data_visualization_Creating_effective_visuals_Task2.pdf)
+
 
 ---
 
