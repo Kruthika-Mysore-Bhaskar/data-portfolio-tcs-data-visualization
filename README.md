@@ -49,11 +49,11 @@ I was tasked with helping the CEO and CMO make expansion decisions using sales, 
 
 ##  Links
 - [Forage Program Link](https://www.theforage.com/virtual-internships/prototype/tata/consulting)  
-- [My LinkedIn Post About This Project](#coming-soon)
+- [My LinkedIn Post About This Project](https://www.linkedin.com/posts/kruthika-mysorebhaskar_forage-certificate-activity-7335470400019070978-rPF-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4AG8gBN4LfcdRE2EmgsOWvxhQ4WpsMmIU)
 
  ##  Visual Report
 
-🖼️ [Click here to view all visuals and insights](./Data_visualization_Creating_effective_visuals_Task2.pdf)
+🖼️ [Click here to view all visuals and insights](https://github.com/Kruthika-Mysore-Bhaskar/data-portfolio-tcs-data-visualization/blob/main/Data_Visualization_Creating%20_effective%20_visuals_Task3.pdf)
 
 
 ---
